@@ -1,1 +1,1 @@
-[my web page](index.html)
+# [My Web Page](http://spatter.github.io)
