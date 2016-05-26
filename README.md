@@ -1,2 +1,1 @@
-# spatter.github.io
-my web page
+[my web page](spatter.github.io)
